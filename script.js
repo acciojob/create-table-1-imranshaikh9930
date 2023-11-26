@@ -1,4 +1,4 @@
-let rows = 2;
+let rows = 1;
 
 
 function insert_Row() {
